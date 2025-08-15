@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class TipoDeMoneda {
+public enum TipoDeMoneda {
+    ARS, USD, EUR, BRL
 }
